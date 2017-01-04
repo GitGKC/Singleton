@@ -1,0 +1,15 @@
+# This is a annotate for Git
+
+.localized
+*.DS_Store
+*.swp
+**/build/
+
+xcshareddata/
+xcuserdata/
+*/buildLog
+
+*.zip
+*.ipa
+*.a
+
